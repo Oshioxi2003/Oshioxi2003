@@ -12,11 +12,11 @@
 <!-- ==== ABOUT =========================================================== -->
 ## 💫 About Me
 
-- 🎓 **EAUT graduate** — đam mê Web/App và hạ tầng triển khai.
-- 🧩 Ưa **thiết kế tối giản**, tập trung trải nghiệm.
-- 🌱 Đang rèn luyện **Full-stack**: backend chắc, frontend mượt, CI/CD ổn định.
-- 🤝 Sẵn sàng **hợp tác** hoặc **mentoring** trong mảng IT.
-- ⚡ Thói quen: biến ý tưởng nhỏ thành công cụ hữu ích.
+- 🎓 **EAUT graduate** — passionate about web/apps and deployment infrastructure.
+- 🧩 I prefer **minimalist, UX-first** design.
+- 🌱 Currently sharpening **full-stack** skills: solid backend, smooth frontend, and reliable CI/CD.
+- 🤝 Open to **collaboration** or **mentoring** in IT.
+- ⚡ Habit: turning small ideas into tools people actually use.
 
 ### 📬 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:toanwa1@gmail.com)
@@ -27,6 +27,10 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge)](https://reddit.com/user/oshioxi)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=fff&style=for-the-badge)](https://tiktok.com/@oshioxi)
 [![X (Twitter)](https://img.shields.io/badge/X-111111?logo=x&logoColor=fff&style=for-the-badge)](https://twitter.com/oshi_oxi110103)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
 <!-- ==== TECH STACK ====================================================== -->
 ## 💻 Tech Stack
@@ -47,16 +51,20 @@
 #### DevOps / Cloud
 `Docker` • `Nginx` • `AWS` • `GCP` • `Cloudflare` • `CI/CD`
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
 <!-- ==== HIGHLIGHTS ====================================================== -->
 ## ✨ Highlights
-- 🔭 **Đang xây**: các dịch vụ nhỏ (micro-services) với Django/DRF + Vue 3.
-- 🚀 **Triển khai**: Docker Compose, reverse proxy Nginx, tối ưu cache.
-- 🧪 **Thực hành**: test tự động (pytest) + lint/format (ruff/black).
-- 🎨 **UI**: Tailwind + component-driven, dark/light friendly.
+- 🔭 **Building**: small services (micro-services) with Django/DRF + Vue 3.
+- 🚀 **Deploying**: Docker Compose, Nginx reverse proxy, cache optimization.
+- 🧪 **Practicing**: automated tests (pytest) + lint/format (ruff/black).
+- 🎨 **UI**: Tailwind + component-driven approach, dark/light friendly.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
 <!-- ==== STATS =========================================================== -->
 ## 📊 GitHub Stats & Activity
@@ -78,12 +86,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oshioxi2003&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
 <!-- ==== FUN ============================================================= -->
+## ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 
+## 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="520" />
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
 <!-- ==== SUPPORT / VISIT ================================================= -->
 <p align="center">
@@ -92,7 +108,11 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Oshioxi2003&icon=1&color=0" />
+  </a>
+</p>
 
 <!-- Footer wave -->
 <p align="center">
@@ -102,9 +122,9 @@
 <!-- ==== OPTIONAL: SNAKE (requires GitHub Actions) ======================= -->
 <!--
 🧩 Snake Contribution:
-1) Tạo file .github/workflows/snake.yml với nội dung từ repo Platane/snk.
-2) Commit, chờ workflow chạy; thay src bên dưới bằng đường dẫn output của bạn.
-3) Bỏ comment 2 dòng <img> để hiển thị.
+1) Create .github/workflows/snake.yml using the workflow from Platane/snk.
+2) Commit and wait for the workflow; then replace the src below with your generated output.
+3) Uncomment the <img> lines to display the snake.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oshioxi2003/Oshioxi2003/output/snake.svg" />
