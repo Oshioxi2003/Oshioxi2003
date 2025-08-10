@@ -1,45 +1,120 @@
-# 💫About Me :
-# Hello there 👋
+<!-- ==== HERO ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0072FF&text=Oshioxi%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=52&desc=EAUT%20Graduate%20%7C%20Full-stack%20Learner&descAlign=50&descAlignY=60&animation=fadeIn" />
+</p>
 
-I’m **Oshioxi** — an EAUT graduate and IT enthusiast.  
-I love building simple, useful web apps and learning something new every day.
+<p align="center">
+  <a href="https://github.com/Oshioxi2003">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=640&lines=I+build+simple+%26+useful+web+apps.;Django+%2B+Vue.js+%2B+Tailwind+%2B+MySQL+%2B+Docker;Always+learning%2C+always+shipping.">
+  </a>
+</p>
 
-## About me
-- 🌱 Currently growing my full-stack skills
-- 🤝 Open to collaborating or getting mentorship in IT
-- 💬 Ask me about my projects and learning journey
+<!-- ==== ABOUT =========================================================== -->
+## 💫 About Me
 
-## Tech I use
-- 🧰 Django • Vue.js • Tailwind CSS • MySQL • Docker
+- 🎓 **EAUT graduate** — đam mê Web/App và hạ tầng triển khai.
+- 🧩 Ưa **thiết kế tối giản**, tập trung trải nghiệm.
+- 🌱 Đang rèn luyện **Full-stack**: backend chắc, frontend mượt, CI/CD ổn định.
+- 🤝 Sẵn sàng **hợp tác** hoặc **mentoring** trong mảng IT.
+- ⚡ Thói quen: biến ý tưởng nhỏ thành công cụ hữu ích.
 
-## Contact
-- 📫 toanwa1@gmail.com
+### 📬 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:toanwa1@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/oshioxi)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=for-the-badge)](https://facebook.com/oshioxi2003)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/oshioxi2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/oshioxi)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge)](https://reddit.com/user/oshioxi)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=fff&style=for-the-badge)](https://tiktok.com/@oshioxi)
+[![X (Twitter)](https://img.shields.io/badge/X-111111?logo=x&logoColor=fff&style=for-the-badge)](https://twitter.com/oshi_oxi110103)
 
-## Fun fact
-- ⚡ I enjoy turning small ideas into tools people actually use.
+<!-- ==== TECH STACK ====================================================== -->
+## 💻 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,nodejs,vue,react,tailwind,html,css,bootstrap,nginx,docker,aws,gcp,cloudflare,firebase,vercel,netlify,linux,git,github,gitlab,postgres,mysql,sqlite,redis,postman,figma&perline=10" />
+</p>
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/oshioxi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oshioxi2003) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oshioxi2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oshioxi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/oshioxi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@oshioxi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/oshi_oxi110103) 
+#### Backend
+`Python` • `Django` • `DRF` • `FastAPI` • `Flask`
 
-# 💻Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Oshioxi2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Oshioxi2003&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oshioxi2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+#### Frontend
+`Vue.js` • `React` • `TailwindCSS` • `Bootstrap`
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+#### Databases
+`MySQL` • `PostgreSQL` • `SQLite` • `Redis`
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+#### DevOps / Cloud
+`Docker` • `Nginx` • `AWS` • `GCP` • `Cloudflare` • `CI/CD`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oshioxi2003&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oshioxi) 
+<!-- ==== HIGHLIGHTS ====================================================== -->
+## ✨ Highlights
+- 🔭 **Đang xây**: các dịch vụ nhỏ (micro-services) với Django/DRF + Vue 3.
+- 🚀 **Triển khai**: Docker Compose, reverse proxy Nginx, tối ưu cache.
+- 🧪 **Thực hành**: test tự động (pytest) + lint/format (ruff/black).
+- 🎨 **UI**: Tailwind + component-driven, dark/light friendly.
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+---
+
+<!-- ==== STATS =========================================================== -->
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oshioxi2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oshioxi2003&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshioxi2003&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Oshioxi2003&theme=matrix&no-bg=true&no-frame=true&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oshioxi2003&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ==== FUN ============================================================= -->
+## ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
+
+## 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="520" />
+
+---
+
+<!-- ==== SUPPORT / VISIT ================================================= -->
+<p align="center">
+  <a href="https://paypal.me/oshioxi">
+    <img src="https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Oshioxi2003&icon=1&color=0" />
+  </a>
+</p>
+
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0072FF,100:00C6FF" />
+</p>
+
+<!-- ==== OPTIONAL: SNAKE (requires GitHub Actions) ======================= -->
+<!--
+🧩 Snake Contribution:
+1) Tạo file .github/workflows/snake.yml với nội dung từ repo Platane/snk.
+2) Commit, chờ workflow chạy; thay src bên dưới bằng đường dẫn output của bạn.
+3) Bỏ comment 2 dòng <img> để hiển thị.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oshioxi2003/Oshioxi2003/output/snake.svg" />
+</p>
+-->
