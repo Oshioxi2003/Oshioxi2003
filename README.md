@@ -81,11 +81,7 @@
 ---
 
 <!-- ==== FUN ============================================================= -->
-## ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 
-## 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="520" />
 
 ---
 
@@ -96,11 +92,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Oshioxi2003&icon=1&color=0" />
-  </a>
-</p>
+
 
 <!-- Footer wave -->
 <p align="center">
