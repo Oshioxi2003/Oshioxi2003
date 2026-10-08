@@ -1,120 +1,88 @@
-<!-- ==== HERO ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C6FF,100:0072FF&text=Oshioxi%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=52&desc=EAUT%20Graduate%20%7C%20Full-stack%20Learner&descAlign=50&descAlignY=60&animation=fadeIn" />
+  <img src="assets/profile-banner.svg" alt="Oshioxi — Full-stack development" width="100%" />
+</p>
+
+<p align="center"><strong>EAUT Graduate · Full-stack Learner · Practical Problem Solver</strong></p>
+<p align="center">Building useful web applications with clean interfaces and reliable foundations.</p>
+
+<p align="center">
+  <a href="mailto:toanwa1@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&amp;logo=gmail&amp;logoColor=22D3EE" alt="Email" /></a>
+  <a href="https://linkedin.com/in/oshioxi"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=22D3EE" alt="LinkedIn" /></a>
+  <a href="https://github.com/Oshioxi2003"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=A78BFA" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Oshioxi2003">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=640&lines=I+build+simple+%26+useful+web+apps.;Django+%2B+Vue.js+%2B+Tailwind+%2B+MySQL+%2B+Docker;Always+learning%2C+always+shipping.">
-  </a>
+  <a href="#about-me">About</a> · <a href="#technology">Technology</a> · <a href="#current-focus">Current focus</a> · <a href="#connect">Connect</a>
 </p>
 
-<!-- ==== ABOUT =========================================================== -->
-## 💫 About Me
+---
 
-- 🎓 **EAUT graduate** — passionate about web/apps and deployment infrastructure.
-- 🧩 I prefer **minimalist, UX-first** design.
-- 🌱 Currently sharpening **full-stack** skills: solid backend, smooth frontend, and reliable CI/CD.
-- 🤝 Open to **collaboration** or **mentoring** in IT.
-- ⚡ Habit: turning small ideas into tools people actually use.
+## About me
 
-### 📬 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:toanwa1@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/oshioxi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=for-the-badge)](https://facebook.com/oshioxi2003)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/oshioxi2003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/oshioxi)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge)](https://reddit.com/user/oshioxi)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=fff&style=for-the-badge)](https://tiktok.com/@oshioxi)
-[![X (Twitter)](https://img.shields.io/badge/X-111111?logo=x&logoColor=fff&style=for-the-badge)](https://twitter.com/oshi_oxi110103)
+I'm an **EAUT graduate** developing my full-stack skills through practical web applications. I enjoy turning small ideas into useful tools, with attention to the user experience and the infrastructure behind it.
+
+- **Design:** simple layouts, clear interactions, and interfaces that work well in light and dark themes.
+- **Development:** solid backends, responsive frontends, and maintainable components.
+- **Deployment:** reproducible environments and reliable CI/CD workflows.
+- **Collaboration:** open to working together and exchanging knowledge with the IT community.
+
+## Technology
+
+My main learning stack combines **Django / DRF**, **Vue.js**, **Tailwind CSS**, **MySQL**, and **Docker**.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://skillicons.dev/icons?i=python,django,vue,tailwind,mysql,docker,nginx,git&amp;perline=8" alt="Python, Django, Vue, Tailwind CSS, MySQL, Docker, Nginx, and Git" />
 </p>
 
-<!-- ==== TECH STACK ====================================================== -->
-## 💻 Tech Stack
+| Area | Technologies I work with or explore |
+| :--- | :--- |
+| **Backend** | Python · Django · Django REST Framework · FastAPI · Flask |
+| **Frontend** | JavaScript · TypeScript · Vue.js · React · HTML · CSS · Tailwind CSS · Bootstrap |
+| **Data** | MySQL · PostgreSQL · SQLite · Redis |
+| **Infrastructure** | Docker · Nginx · Linux · AWS · GCP · Cloudflare · CI/CD |
+| **Tools & platforms** | Node.js · Git · GitHub · GitLab · Postman · Figma · Firebase · Vercel · Netlify |
+
+## Current focus
+
+| Focus | What I'm practicing |
+| :--- | :--- |
+| **Application development** | Small services with Django / DRF and Vue 3 |
+| **Deployment & performance** | Docker Compose, Nginx reverse proxies, and cache optimization |
+| **Code quality** | Automated tests with pytest and formatting with Ruff / Black |
+| **Interface design** | Reusable Tailwind components and light / dark theme support |
+
+## GitHub activity
+
+Explore my [repositories and contribution history](https://github.com/Oshioxi2003).
+
+<details>
+  <summary><strong>Show GitHub statistics</strong></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Oshioxi2003&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=22D3EE&amp;icon_color=A78BFA&amp;text_color=CBD5E1" alt="Public GitHub statistics for Oshioxi2003" width="480" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshioxi2003&amp;layout=compact&amp;hide_border=true&amp;bg_color=0F172A&amp;title_color=22D3EE&amp;text_color=CBD5E1" alt="Most-used languages in public repositories" width="360" />
+  </p>
+  <p align="center"><sub>Statistics depend on the availability of a third-party service.</sub></p>
+</details>
+
+## Connect
+
+Have an idea to discuss or a project to collaborate on? Reach me at **[toanwa1@gmail.com](mailto:toanwa1@gmail.com)** or connect on **[LinkedIn](https://linkedin.com/in/oshioxi)**.
+
+<details>
+  <summary><strong>More places to find me</strong></summary>
+  <br />
+
+  [Discord](https://discord.gg/oshioxi) · [Facebook](https://facebook.com/oshioxi2003) · [Instagram](https://instagram.com/oshioxi2003) · [Reddit](https://reddit.com/user/oshioxi) · [TikTok](https://tiktok.com/@oshioxi) · [X / Twitter](https://twitter.com/oshi_oxi110103)
+
+</details>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,ts,nodejs,vue,react,tailwind,html,css,bootstrap,nginx,docker,aws,gcp,cloudflare,firebase,vercel,netlify,linux,git,github,gitlab,postgres,mysql,sqlite,redis,postman,figma&perline=10" />
+  <a href="https://paypal.me/oshioxi"><img src="https://img.shields.io/badge/Support_my_work-0F172A?style=flat-square&amp;logo=paypal&amp;logoColor=A78BFA" alt="Support my work via PayPal" /></a>
 </p>
 
-#### Backend
-`Python` • `Django` • `DRF` • `FastAPI` • `Flask`
+---
 
-#### Frontend
-`Vue.js` • `React` • `TailwindCSS` • `Bootstrap`
-
-#### Databases
-`MySQL` • `PostgreSQL` • `SQLite` • `Redis`
-
-#### DevOps / Cloud
-`Docker` • `Nginx` • `AWS` • `GCP` • `Cloudflare` • `CI/CD`
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
-<!-- ==== HIGHLIGHTS ====================================================== -->
-## ✨ Highlights
-- 🔭 **Building**: small services (micro-services) with Django/DRF + Vue 3.
-- 🚀 **Deploying**: Docker Compose, Nginx reverse proxy, cache optimization.
-- 🧪 **Practicing**: automated tests (pytest) + lint/format (ruff/black).
-- 🎨 **UI**: Tailwind + component-driven approach, dark/light friendly.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
-<!-- ==== STATS =========================================================== -->
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oshioxi2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oshioxi2003&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshioxi2003&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oshioxi2003&theme=matrix&no-bg=true&no-frame=true&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oshioxi2003&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</p>
-
-<!-- ==== FUN ============================================================= -->
-
-
-<!-- ==== SUPPORT / VISIT ================================================= -->
-<p align="center">
-  <a href="https://paypal.me/oshioxi">
-    <img src="https://img.shields.io/badge/Support%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
-</p>
-
-
-
-<!-- Footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0072FF,100:00C6FF" />
-</p>
-
-<!-- ==== OPTIONAL: SNAKE (requires GitHub Actions) ======================= -->
-<!--
-🧩 Snake Contribution:
-1) Create .github/workflows/snake.yml using the workflow from Platane/snk.
-2) Commit and wait for the workflow; then replace the src below with your generated output.
-3) Uncomment the <img> lines to display the snake.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oshioxi2003/Oshioxi2003/output/snake.svg" />
-</p>
--->
+<p align="center"><sub>Keep learning. Build thoughtfully. Make something useful.</sub></p>
